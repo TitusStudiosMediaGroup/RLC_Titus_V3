@@ -1,3 +1,7 @@
+![Build-Status](https://img.shields.io/badge/build-failed-red.svg)
+
+# OUT DATED - DO NOT USE!
+
 hhhhhhhhh
 this is not done
 and its not public too
